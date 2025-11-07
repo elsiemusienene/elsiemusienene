@@ -1,6 +1,14 @@
-salut à vous tous
-je m'appelle KAVIRA MUSIENENE ELSIE etudiante Congolaise en troisième année de licence en informatique appliquée à la Gestion des entreprises(L3IAGE) à l'université de l'assomption au Congo
-je suis passionnée par les technologies numériques,la gestion des systèmes d'information, et leur impact sur le développement des entreprises Africaine
-mon objectif est de contribuer à la trasformation digitale en Afrique à travers des solution innovantes  et accessibles.
-Merci d' avoir visité mon profil GitHub! N'hésitez pas à me contacter pour échanger ou collaborer
+ 👋 Salut, moi c’est KAVIRA MUSIENENE ELVIS
+
+🎓 Étudiante en L3 IAGE (Informatique Appliquée à la Gestion des Entreprises) 
+💻 Passionnée par le développement web et les solutions informatiques  
+🌱 Actuellement, j’apprends à perfectionner mes compétences en PHP, HTML/CSS et JavaScript
+🛠️ Mes outils et langages préférés
+- 🐘 PHP
+- ⚙️ VS Code
+- 🌐 HTML / CSS / JavaScript
+- 🗄️ MySQL
+- 🧩 Git / GitHub
+ 📫 Me contacter
+✉️ elsiemusiennene8@gmail.com  
 
