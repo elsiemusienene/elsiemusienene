@@ -9,6 +9,5 @@
 - 🌐 HTML / CSS / JavaScript
 - 🗄️ MySQL
 - 🧩 Git / GitHub
- 📫 Me contacter
-✉️ elsiemusiennene8@gmail.com  
+ ✉️ elsiemusiennene8@gmail.com  
 
